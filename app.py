@@ -6,7 +6,7 @@ import dash_bootstrap_components as dbc
 import dash_html_components as html
 
 # import NASA spacewalks .csv: spacewalks_df
-spacewalks_df = pd.read_csv('spacewalks_eva.csv')
+spacewalks_df = pd.read_csv('https://gist.githubusercontent.com/scarnyc/dddf13047278e93acebb6c00022beca5/raw/a3f7de5ad3954dbbdd61ad47c65e2c20e749a7f8/spacewalks_eva.csv')
 
 # create plotly express scatter plot: fig
 fig = px.scatter(
