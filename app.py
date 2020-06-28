@@ -22,7 +22,7 @@ fig = px.scatter(
     opacity=.9,
     render_mode='svg',
     marginal_y='histogram',
-    title='NASA Spacewalks USA & Russia EVAS',
+    title='USA & Russia Spacewalks',
     color_discrete_map={"Russia": "red", "USA": "blue"}
 )
 
