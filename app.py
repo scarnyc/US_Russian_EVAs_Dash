@@ -50,8 +50,7 @@ fig.update_layout(
 # instantiate Dash app with Darkly theme: app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
 
-# set secret key and server: server
-app.server.secret_key = 'nosecrets'
+# set server: server
 server = app.server
 
 # create app layout with plotly express scatter plot
@@ -60,6 +59,4 @@ app.layout = html.Div(children=[
 ])
 
 if __name__ == '__main__':
-    app.run_server(
-        #debug=True
-    )
+    app.run_server()
