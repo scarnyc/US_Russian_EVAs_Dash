@@ -1,7 +1,7 @@
 # NASA_USA_and_Russia_Spacewalks_Dash
-A dashboard that shows Spacewalking Astronauts (U.S. and Russia) with Plotly Dash, using the NASA spacewalking dataset.  
+This is a dashboard that shows Spacewalking Astronauts (U.S. and Russia) by Duration over time via Plotly's Dash, using the NASA spacewalking dataset.  
 
-Dashboard here:
+Dashboard deployed here via Heroku:
 https://spacewalksrussiausevasdash.herokuapp.com/
 
 More info on Spacewalks here: 
