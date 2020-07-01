@@ -4,8 +4,5 @@ This is a dashboard that shows spacewalks conducted by U.S. & Russian astronauts
 Check out the official blog on Medium:
 https://medium.com/@billyscardino/nasa-spacewalks-with-plotly-dash-heroku-397d87dd2611
 
-Dashboard deployed on Heroku here:
+Dashboard deployed on Heroku:
 https://spacewalksrussiausevasdash.herokuapp.com/
-
-More info on Spacewalks here: 
-https://www.nasa.gov/audience/forstudents/nasaandyou/home/spacewalks_bkgd_en.html
