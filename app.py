@@ -6,7 +6,7 @@ import dash_bootstrap_components as dbc
 import dash_html_components as html
 
 # import NASA spacewalks .csv: spacewalks_df
-spacewalks_df = pd.read_csv('https://gist.githubusercontent.com/scarnyc/dddf13047278e93acebb6c00022beca5/raw/a3f7de5ad3954dbbdd61ad47c65e2c20e749a7f8/spacewalks_eva.csv')
+spacewalks_df = pd.read_csv('https://gist.githubusercontent.com/scarnyc/5751e46d68a3dcecbe3469982a508763/raw/c2ed7fbc522dba327192a655c2e027b62ff39ff4/spacewalks_eva.csv')
 
 # create plotly express scatter plot: fig
 fig = px.scatter(
@@ -22,7 +22,7 @@ fig = px.scatter(
     opacity=.9,
     render_mode='svg',
     marginal_y='histogram',
-    title='U.S. & Russian Spacewalks',
+    title='U.S. & Russian Spacewalks (1965-2013)',
     color_discrete_map={"Russia": "red", "USA": "blue"}
 )
 
