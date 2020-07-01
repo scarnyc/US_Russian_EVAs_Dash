@@ -1,0 +1,369 @@
+Country,Crew,Vehicle,Date,Duration (in Minutes),Purpose
+USA,Ed White,Gemini IV,1965-06-03,36.0,First U.S. EVA. Used HHMU and too.  photos.  Gas flow cooling of 25ft umbilical overwhelmed by vehicle ingress work and helmet fogged
+USA,David Scott,Gemini VIII,1966-03-17,0.0,HHMU EVA cancelled before starting by stuck on vehicle thruster that ended mission early
+USA,Eugene Cernan,Gemini IX-A,1966-06-05,127.0,"Inadequate restraints, stiff 25ft umbilical and high workloads exceeded suit vent loop cooling capacity and caused fogging.  Demo called off of tethered astronaut maneuvering unit"
+USA,Mike Collins,Gemini X,1966-07-19,50.0,Standup EVA.  UV photos of stars.  Ended by eye irritation that impaired vision 
+USA,Mike Collins,Gemini X,1966-07-20,39.0,Retrieved MMOD experiment from docked Agena.  Used HHMU. Lost camera and retrieved experiment. EVA ended early by unrelated spacecraft problem
+USA,Richard Gordon,Gemini XI,1966-09-13,44.0,"Attached tether between Agena and Gemini.  EVA ended early due to fatigue, overheating & eye sweat"
+USA,Richard Gordon,Gemini XI,1966-09-14,130.0,Standup EVA.  Took star photos. Agena tether ops
+USA,Buzz Aldrin,Gemini XII,1966-11-12,149.0,Standup EVA.  Science tasks.  Took star photos
+USA,Buzz Aldrin,Gemini XII,1966-11-13,126.0,Attached tether between Agena and Gemini.  UV photos of stars.  Waist tether and Dutch shoe eval
+USA,Buzz Aldrin,Gemini XII,1966-11-14,55.0,Standup EVA.  Jettisoned equipment.  Took photos
+USA,David Scott,Apollo 9,1969-03-06,47.0,Standup EVA from crew module.  Retrieved thermal experiment samples
+USA,Russ Schweickart,Apollo 9,1969-03-06,51.0,Lunar module based.  Took photos.  Evaluated foot restraint and handrails
+USA,Neil Armstrong | Buzz Aldrin,Apollo 11,1969-07-20,152.0,First to walk on the moon.  Some trouble getting out small hatch.  46.3 lb of geologic material collected.  EASEP seismograph and laser reflector exp deployed.  Solar wind exp deployed & retrieved.  400 ft (120m) circuit on foot.  Dust issue post EVA
+USA,Neil Armstrong | Buzz Aldrin,Apollo 11,1969-07-20,5.0,Jettison suit backpacks and equip to lighten ascent
+USA,Allen Bean | Pete Conrad,Apollo 12,1969-11-19,219.0,Collected 75.6 lb of geologic material.  ALSEP exp deployed.  6000 ft (1800m) circuit on foot
+USA,Allen Bean | Pete Conrad,Apollo 12,1969-11-20,228.0,Retrieved parts of Surveyor 3 spacecraft.   
+USA,Allen Bean | Pete Conrad,Apollo 12,1969-11-20,5.0,Jettison suit backpacks and equip to lighten ascent
+USA,Ed Mitchell | Alan Shepard,Apollo 14,1971-02-05,288.0,Collected 94.4 lb of geologic material.  ALSEP and laser reflector exp deployed.  Hiked up to 0.9 miles (1.5km) from lunar module
+USA,Ed Mitchell | Alan Shepard,Apollo 14,1971-02-06,274.0,Sought but did not quite reach crater.  Golf demo
+USA,Ed Mitchell | Alan Shepard,Apollo 14,1971-02-06,5.0,Jettison suit backpacks and equip to lighten ascent
+USA,David Scott,Apollo 15,1971-07-30,33.0,Standup EVA to scout and photograph lunar surface before traverse
+USA,David Scott | James Irwin,Apollo 15,1971-07-31,394.0,Collected 169 lb of geologic material.  ALSEP exp deployed.  First use of the lunar rover
+USA,David Scott | James Irwin,Apollo 15,1971-08-02,5.0,Jettison suit backpacks and equip to lighten ascent
+USA,Al Worden,Apollo 15,1971-08-05,39.0,First transearth EVA.  Retrieved 2 camera film cassettes
+USA,John Young | Charles Duke,Apollo 16,1972-04-21,431.0,Collected 208 lb of rock/dust (41lb this day). ALSEP & solar wind experiments deployed. Assembled and used lunar rover (4.2 km).  
+USA,John Young | Charles Duke,Apollo 16,1972-04-22,443.0,Collected 82 lb of rock/dust. Drove rover 11.5 km
+USA,John Young | Charles Duke,Apollo 16,1972-04-23,340.0,Collected 90 lb of rock/dust.  Drove rover 27.1 km
+USA,John Young | Charles Duke,Apollo 16,1972-04-23,4.0,Jettison suit backpacks and equip to lighten ascent
+USA,Tom Mattingly,Apollo 16,1972-04-25,83.0,Transearth EVA to retrieve camera film and expose microbial response experiment
+USA,Harrison Schmidt | Eugene Cernan,Apollo 17,1972-12-11,432.0,Collected 243 lb of geologic material.  ALSEP exp deployed.   8 seismic explosive charges placed for later use
+USA,Harrison Schmidt | Eugene Cernan,Apollo 17,1972-12-13,8.0,Jettison suit backpacks and equip to lighten ascent
+USA,Ron Evans,Apollo 17,1972-12-17,67.0,Transearth EVA to retrieve camera film
+USA,Paul Weitz | Joe Kerwin,Skylab 2,1973-05-25,40.0,"Standup EVA.  While based in hatch of just arrived hovering spacecraft, failed to pull/pry free solar panel held by cm wide scrap of MMOD shield"
+USA,Pete Conrad | Joe Kerwin,Skylab 2,1973-06-07,205.0,"Without body restraint, initially unable to attach 25ft pole/cutter jaws to aluminum scrap holding jammed solar panel.  Improvised body restraint with suit tether to unexpected vehicle U bolt for 3 pt stance to enable pole positioning and cut.  After debris cut, attached pole as translation path to solar array"
+USA,Pete Conrad | Paul Weitz,Skylab 2,1973-06-19,96.0,Retrieved Apollo Telescope Mount film and repaired power module relay with hammer blow.  Cleaned camera lens
+USA,Owen Garriott | Jack Lousma,Skylab 3,1973-08-06,391.0,Constructed/deployed twin-pole thermal shield to reduce internal spacecraft temperatures.  Loaded telescope camera with film.  Inspected previously leaking thrusters
+USA,Owen Garriott | Jack Lousma,Skylab 3,1973-08-24,271.0,Installed cable for backup gyro package.  Exchanged telescope camera film.  Deployed parasol samples
+USA,Owen Garriott | Allen Bean,Skylab 3,1973-09-22,161.0,"Recovered telescope camera film, material samples and meteroid exp.  Cleaned camera lens"
+USA,Ed Gibson | Bill Pogue,Skylab 4,1973-11-22,393.0,Photographed earth atmosphere.  Deployed spacecraft contamination measurement exp.  Reloaded telescope camera film
+USA,Gerald Carr | Bill Pogue,Skylab 4,1973-12-25,421.0,"Photographed comet Kohoutek, reloaded telescope camera film, pinned open failed solar UV exp door.  Installed solar UV/X-Ray camera.  Repositioned jammed filter wheel in x-ray telescope"
+USA,Gerald Carr | Ed Gibson,Skylab 4,1973-12-29,209.0,Photographed comet Kohoutek.  Retrieved sample of meteroid protection cover
+USA,Gerald Carr | Ed Gibson,Skylab 4,1974-02-03,319.0,Retrieved telescope camera film and installed meteroid collection experiment. Gibson reported coolant leakage from EVA life support system
+USA,Bill Lenoir | Joe Allen,STS-5,1982-11-14,0.0,Suit fan and O2 regulator failures prevented first Shuttle EVA.  No spare suit onboard
+USA,Story Musgrave | Don Peterson,STS-6,1983-04-07,257.0,First shuttle EVA.  New suits tested.  Basic orbiter/payload contingency tasks practiced
+USA,Bob Stewart | Bruce McCandless,STS-41B,1984-02-07,356.0,Practiced Solar Max repair. Used MMU and MFR for first time.  PLB camera D changed out.  Slidewire bracket pip-pin pulled free by crew tether inadvertantly
+USA,Bob Stewart | Bruce McCandless,STS-41B,1984-02-09,369.0,Practiced MMU docking with fixed target.  Simple satellite refueling demo (freon).  Foot restraint lost overboard and recovered
+USA,James Van Hoften | George Nelson,STS-41C,1984-04-08,173.0,Failed to dock MMU to Solar Max satellite due to thermal grommet interference.  Manual grasp of solar array increased satellite instability 
+USA,James Van Hoften | George Nelson,STS-41C,1984-04-11,425.0,"After ground cmd stabilization and RMS grapple, Solar Max repaired (attitude control and main elec boxes replaced, MEB not designed for replacement).  Small trash bag lost due to inadvertment release of MWS lock.  MMU engineering test performed"
+USA,Dave Leestma | Kathy Sullivan,STS-41G,1984-10-11,209.0,First U.S. female EVA.  Demonstrated hydrazine refueling.  Aligned gimbals of Ku antenn
+USA,Joe Allen | Dale Gardner,STS-51A,1984-11-12,362.0,PALAPA retrieval.  MMU used.  Had to use manual satellite restraint when structure with RMS grapple fixture failed to attach due to unexpected structure on satellite.
+USA,Joe Allen | Dale Gardner,STS-51A,1984-11-14,348.0,WESTAR retrieval.  MMU used.  Recovered untethered torque wrench (twice) and draeger tube (once)
+USA,Dave Griggs | Jeff Hoffman,STS-51D,1985-04-16,190.0,"""Flyswatter"" attached to end of RMS to attempt to activate LEASAT/SYNCOM IV sequence start lever.  Lever tripped but satellite was actually failed elsewhere.  Griggs inadvertently went out over wing"
+USA,James Van Hoften | Bill Fisher,STS-51I,1985-08-31,429.0,LEASAT/SYNCOM IV repairs started.  RMS failure to single joint mode forced second EVA.  Lost power tool overboard.
+USA,James Van Hoften | Bill Fisher,STS-51I,1985-09-01,269.0,LEASAT/SYNCOM IV repairs completed.  Accidently reused depleted LiOH cans from 1st EVA.
+USA,Jerry Ross | Woody Spring,STS-61B,1985-11-29,338.0,EASE/ACCESS truss assembly and stowage demos.  Deployed radar target
+USA,Jerry Ross | Woody Spring,STS-61B,1985-12-01,408.0,"EASE/ACCESS truss assembly, stowage and handling demos.  Simulated cable routing with rope reel and heat pipe handling with free EASE beams."
+USA,Bruce McCandless | Kathy Sullivan,STS-31,1990-04-24,0.0,In suits in airlock at 5psi awaiting GO to manually deploy stuck solar array.  Waived off when auto sys worked
+USA,Jerry Ross | Jay Apt,STS-37,1991-04-07,266.0,"Freed stuck GRO high gain antenna. Started Space Station demos (recorded crew loads, variable tension rope translation, dogbone handrails)."
+USA,Jerry Ross | Jay Apt,STS-37,1991-04-08,360.0,"More Space Station demos (evals of 3 different carts and a tether shuttle, RMS translation rates and loads).  Time short for all RMS/EVA tests"
+USA,Pierre Thuot | Rick Hieb,STS-49,1992-05-10,223.0,Capture bar/grapple fixture attach failed 3 times
+USA,Pierre Thuot | Rick Hieb,STS-49,1992-05-11,330.0,"Though more careful to induce less loads, capture bar/grapple fixture attach failed 5 times"
+USA,Thuot/Hieb/Akers,STS-49,1992-05-13,509.0,3 man EVA.  Manually capture/repair INTELSAT
+USA,Tom Akers | Kathy Thornton,STS-49,1992-05-14,464.0,"ASEM Space Station assembly demos (module to truss mating, updated HHMU self rescue device).  Aligned gimbals of Ku antenna for IV commanded locking "
+USA,Greg Harbaugh | Mario Runco,STS-54,1993-01-17,268.0,Evaluate training vs. flight differences (DTO 1210).   Encumbered translations.  Foot restraint ingress
+USA,David Low | Jeff Wisoff,STS-57,1993-06-25,350.0,"First egress/ingress involving tunnel adapter.  Pushed on 2 EURECA antennas to aid stowage.  Evaluated training vs. flight differences (DTO 1210, large mass handling from RMS, high torque bolts, ORU fine align from RMS with active orbiter jets"
+USA,Carl Walz | Jim Newman,STS-51,1993-09-16,425.0,Evaluate training vs. flight differences (DTO 1210).  Evaluated HST servicing mission tools.  Tool box door jammed temporarily preventing closure
+USA,Story Musgrave | Jeff Hoffman,STS-61 /|HST-1,1993-12-04,474.0,"HST servicing (RSU, ECU, solar array prep).  RSU bay doors difficult to close."
+USA,Tom Akers | Kathy Thornton,STS-61 /|HST-1,1993-12-05,396.0,HST servicing (2 solar arrays).   One jettisoned due to pre-EVA damage
+USA,Story Musgrave | Jeff Hoffman,STS-61 /|HST-1,1993-12-06,407.0,HST servicing (WFPC 1/2)
+USA,Tom Akers | Kathy Thornton,STS-61 /|HST-1,1993-12-07,410.0,HST servicing (HSP/COSTAR)
+USA,Story Musgrave | Jeff Hoffman,STS-61 /|HST-1,1993-12-08,441.0,"HST servicing (SADE, magnetometers, GHRS)"
+USA,Mark Lee | Carl Meade,STS-64,1994-09-16,411.0,"SAFER self rescue demo, test new tools"
+USA,Mike Foale | Bernard Harris,STS-63,1995-02-09,279.0,"Cold environment eval, large object handling eval using SPARTAN (EDFT-01)"
+USA,Jim Voss | Mike Gernhardt,STS-69,1995-09-16,406.0,ISS task board with worksite interface samples.  Elec cuff checklist demo.  Thermal cube experiment
+USA,Leroy Chiao | Dan Barry,STS-72,1996-01-15,369.0,ISS umbilical tests with robotically transported portable work platform.  Elec cuff checklist demo.  
+USA,Linda Godwin | Rich Clifford,STS-76,1996-03-27,363.0,Deploy 4 MEEP materials experiments on Mir docking module.  Test US/Russian tether and PFR.  Retrieve camera from docking module exterior
+USA,Tom Jones | Tammy Jernigan,STS-80,1996-11-29,0.0,Loose screw jammed in hatch latch actuator prevented airlock egress
+USA,Mark Lee | Steve Smith,STS-82 /|HST-2,1997-02-13,402.0,"HST servicing (first STS external airlock sortie, depress gas flow disturbed HST solar arrays, remove/install GHRS/STIS, FOS/NICMOS )"
+USA,Greg Harbaugh | Joe Tanner,STS-82 /|HST-2,1997-02-14,447.0,"HST servicing (remove/install FGS-1/FGS-1R, replace ESTR-2, install OCE enhancement kit)"
+USA,Mark Lee | Steve Smith,STS-82 /|HST-2,1997-02-15,431.0,"HST servicing (remove/install DUI-2/DIU-2R, ESTR-1/SSR, replace RWA)"
+USA,Greg Harbaugh | Joe Tanner,STS-82 /|HST-2,1997-02-16,394.0,"HST servicing (replace SADE, install MSS cover, retrieve degraded MLI sample, install MLI patches)"
+USA,Mark Lee | Steve Smith,STS-82 /|HST-2,1997-02-17,317.0,HST servicing (unscheduled EVA to add protective covers over degrading aluminized insulation)
+USA,Scott Parazynski | Vladimir Titov,STS-86,1997-10-01,301.0,Retrieve 4 MEEP materials experiments on Mir docking module.  Test US/Russian tethers and PFR.  US safety tether would not retract
+USA,Winston Scott | Takao Doi,STS-87,1997-11-24,463.0,Manual capture and berthing (with RMS aid) of Spartan.  Test of ISS crane with large battery/carrier.  Test of ISS power tool and torque multiplier
+USA,Winston Scott | Takao Doi,STS-87,1997-12-03,299.0,Test of ISS crane with small ORUÂs.  Deploy and capture of SPRINT/AERCAM robotic freeflyer
+USA,Jerry Ross | Jim Newman,STS-88/2A,1998-12-07,441.0,Connect PMA1-FGB power cables and PMA1/2-Node1 APAS cables
+USA,Jerry Ross | Jim Newman,STS-88/2A,1998-12-09,422.0,Install 2 early comm antennas and cables
+USA,Jerry Ross | Jim Newman,STS-88/2A,1998-12-12,419.0,"Deploy 2 US foot restraints and a tool stanchion.  Aid release of 2 FGB Toru antennas, install FGB aft handrail and reinstall FGB Komplast panel.  SAFER self rescue demo (DTO 689)"
+USA,Tammy Jernigan | Dan Barry,STS-96/2A.1,1999-05-29,475.0,"Transfer and externally install US and Russian cargo cranes, 2 common foot restraints, 3 EVA tool bags.  Lost retractable equip tether"
+USA,Steve Smith | John Grunsfeld,STS-103/|HST-3A,1999-12-22,495.0,HST servicing (RSU gyros and volt/temp improvement kits for batteries)
+USA,Mike Foale | Claude Nicollier,STS-103/|HST-3A,1999-12-23,490.0,HST servicing (486 computer and fine guidance sensor)
+USA,Steve Smith | John Grunsfeld,STS-103/|HST-3A,1999-12-24,488.0,HST servicing (transmitter and solid state recorder)
+USA,Jeff Williams | Jim Voss,STS-101/2A.2a,2000-05-21,404.0,Resecure and reorient U.S. crane.  Assemble complete Russian crane and transfer from PMA 2 to PMA 1.  Replace stbd ECOM antenna
+USA,Edward Lu | Yuri Malenchecko,STS-106/2A.2b,2000-09-11,374.0,"SM docking target deployment completed manually.  Attitude control magnetometer and nearby translation aid gap spanner installed.  SM-FGB cables routed, secured and connected (EPS, TV-C&DH and Orlan comm)"
+USA,Leroy Chiao | Bill McArthur,STS-92/3A,2000-10-15,388.0,Z1 SASA antenna deployed.  DDCU thermal shrouds removed/stowed. One tool box relocated from PLB to Z1.  Z1-Node1 cables mated
+USA,Jeff Wisoff | Mike Lopez-Alegria,STS-92/3A,2000-10-16,427.0,PMA3 released from PLB.  PMA3-Node1 cables mated.  
+USA,Leroy Chiao | Bill McArthur,STS-92/3A,2000-10-17,408.0,Z1 DDCU-HP (2) transferred from PLB to Z1.  Z1 keel relocated.  Z1-P6 launch locks released
+USA,Jeff Wisoff | Mike Lopez-Alegria,STS-92/3A,2000-10-18,416.0,Z1 FRGF stowed and utility tray deployed.  Tethered demo of self rescue SAFER hardware (DTO 689).
+USA,Joe Tanner | Carlos Noriega,STS-97/4A,2000-12-03,453.0,Assisted P6-Z1 mechanical mating.  Mated 9 Z1-P6 electrical power cables. Released 2 sets of solar array blanket boxes and gimbal linkages.  Used tensioning devices to secure 3 of 4 gimbal linkage bolts
+USA,Joe Tanner | Carlos Noriega,STS-97/4A,2000-12-05,397.0,Removed/stowed Z1's ACBSP and DDCU-HP thermal shrouds.  Relocated SASA antenna from Z1 to IEA.  Inspected tensioning mechanism of incompletely deployed solar array
+USA,Joe Tanner | Carlos Noriega,STS-97/4A,2000-12-07,310.0,Reseated solar array tensioning cable to allow full deployment.  Installed FPP antennas on IEA and Node1. Installed Node1 centerline camera cable.  Released P6 stbd radiator launch restraints and thermal sensors
+USA,Tom Jones | Bob Curbeam,STS-98/5A,2001-02-10,454.0,Disconnect lab-Shuttle LTA heater cable.  Remove and stow lab module CBM cover.  Connect 4 ammonia lines and elec cables btw lab and Z1
+USA,Tom Jones | Bob Curbeam,STS-98/5A,2001-02-12,410.0,"Connect lab-PMA2 APAS cables.  Install lab vent valve, trunnion pin covers, handrails, PDGF, VSC and window cover.  Wrong bolt heads on vent cover"
+USA,Tom Jones | Bob Curbeam,STS-98/5A,2001-02-14,325.0,Spare SASA antenna installed on Z1.  Demo of incapacitated crew rescue.
+USA,Jim Voss | Susan Helms,STS-102/5A.1,2001-03-10,536.0,Disconnected PMA3 from Node1 electrical cables.  Installed cradle on lab in prep for SSRMS and S0 truss.  Installed rigid umbilical
+USA,Paul Richards | Andy Thomas,STS-102/5A.1,2001-03-12,381.0,Removed and stowed port early comm antenna.  Installed the external stowage platform on a lab trunnion.  Transfered a pump flow control system ORU ready for future replacement
+USA,Scott Parazynski | Chris Hadfield,STS-100/6A,2001-04-22,430.0,"Transfered and installed UHF antenna on lab.  Released SSRMS launch restraints, unfold booms and secure joints.  Connected cables from lab to SSRMS pallet for initial robot arm ops"
+USA,Scott Parazynski | Chris Hadfield,STS-100/6A,2001-04-24,460.0,Connected 8 cables for lab based SSRMS ops.  Demated cables btw lab and SSRMS pallet.  Removed and stowed stbd early comm antenna
+USA,Mike Gernhardt | Jim Reilly,STS-104/7A,2001-07-14,359.0,Shuttle based EVA.  Airlock-Node1 CBM cover removed.  LTA heater cable demated
+USA,Mike Gernhardt | Jim Reilly,STS-104/7A,2001-07-17,389.0,Shuttle based EVA.  3 of 4 high pressure gas tanks installed on airlock
+USA,Mike Gernhardt | Jim Reilly,STS-104/7A,2001-07-20,242.0,First EVA based from ISS joint airlock.  4th high pressure gas tank installed.  Installed thermal cover over airlock FRGF and several airlock handrails
+USA,Dan Barry | Patrick Forrester,STS-105/7A.1,2001-08-16,376.0,Shuttle based EVA.  Installed early ammonia servicer on P6 truss and mated its cables.  Attached 2 MISSE materials experiments to airlock exterior. 
+USA,Dan Barry | Patrick Forrester,STS-105/7A.1,2001-08-18,329.0,Shuttle based EVA.  Installed 10 handrails on Lab.  Attached LTA heater cables on lab for later use with S0.
+USA,Linda Godwin | Dan Tani,STS-108/UF1,2001-12-10,252.0,Shuttle based EVA.  Installed 2 beta gimbal assy (BGA) thermal blankets.  Retrieved SASA shroud
+USA,Carl Walz | Dan Bursch,Incr-4,2002-02-20,349.0,"First use of the Quest airlock without Shuttle docked.  8A preps included tool retrieval/relocation, DDCU checkout, Z1 Shroud removal, Grapple Fixture Adapter removal, securing HPGT latches, photos of MISSE & MMOD hits.  "
+USA,John Grunsfeld | Rick Linnehan,STS-109/|HST-3B,2002-03-04,421.0,HST servicing.  Replaced 1 of 2 solar arrays and its diode box. 
+USA,Jim Newman | Mike Massimino,STS-109/|HST-3B,2002-03-05,436.0,HST servicing.  Replaced 2nd solar array and its diode box.   Replaced gyro reaction wheel assy #1.
+USA,John Grunsfeld | Rick Linnehan,STS-109/|HST-3B,2002-03-06,408.0,HST servicing.  Replaced power control unit (PCU).  HST handrails inspected.
+USA,Jim Newman | Mike Massimino,STS-109/|HST-3B,2002-03-07,450.0,HST servicing.  Replaced faint object camera (FOC) with advanced camera.  Installed electronics support module in aft shroud
+USA,John Grunsfeld | Rick Linnehan,STS-109/|HST-3B,2002-03-08,440.0,HST servicing.  Installed NICMOS cryo cooler and radiator.   Installed new outer thermal blankets
+USA,Steve Smith | Rex Walheim,STS-110/8A,2002-04-11,468.0,ISS based EVA.  Lab-SO cables connected.  Aft tray req'd 2 crew to deploy
+USA,Jerry Ross | Lee Morin,STS-110/8A,2002-04-13,450.0,ISS based EVA.  Lab-SO cables connected.  Lab-S0 aft struts installed
+USA,Steve Smith | Rex Walheim,STS-110/8A,2002-04-14,387.0,ISS based EVA.  Released Lab-S0 adapter latch.  Connected MT cables
+USA,Jerry Ross | Lee Morin,STS-110/8A,2002-04-16,397.0,ISS based EVA.  Installed S0-airlock handrail spur.  Installed handrails and 2 CETA lights on S0
+USA,F. Chang-Diaz | Philippe Perrin,STS-111/UF2,2002-06-09,434.0,ISS based EVA.  PDGF installed on P6.  SM MMOD panels stowed on PMA1
+USA,F. Chang-Diaz | Philippe Perrin,STS-111/UF2,2002-06-11,300.0,ISS based EVA.  MT-MBS cables connected and MT-MBS bolts mated.  POA deployed
+USA,F. Chang-Diaz | Philippe Perrin,STS-111/UF2,2002-06-13,436.0,ISS based EVA.  SSRMS wrist joint replaced.  Failed joint stowed on Shuttle. 
+USA,Dave Wolf | Piers Sellers,STS-112/9A,2002-10-10,421.0,ISS based EVA.  S1-S0 cables and fluid lines connected.  S-band antenna deployed
+USA,Dave Wolf | Piers Sellers,STS-112/9A,2002-10-12,364.0,ISS based EVA.  Lab camera installed.  S1 radiator restraints released
+USA,Dave Wolf | Piers Sellers,STS-112/9A,2002-10-14,396.0,ISS based EVA.  MT IUA replaced.  S0-S1 NH3 jumpers connected
+USA,Mike Lopez-Alegria | John Herrington,STS-113/11A,2002-11-26,405.0,ISS based EVA.  P1-S0 cables connected.  CETA cart launch locks released
+USA,Mike Lopez-Alegria | John Herrington,STS-113/11A,2002-11-28,370.0,ISS based EVA.  P1-S0 fluid lines connected.  P1 keels stowed
+USA,Mike Lopez-Alegria | John Herrington,STS-113/11A,2002-11-30,420.0,ISS based EVA.  SPD's installed.  MBSU cables reconfigured
+USA,Ken Bowersox | Don Pettit,Incr-6,2003-01-15,411.0,ISS based EVA.  Removed debris from Node nadir CBM.  Released P1 truss radiator launch locks (10) to allow deploy
+USA,Ken Bowersox | Don Pettit,Incr-6,2003-04-08,386.0,"ISS based EVA.  Reconfigured SO, S1 and P1 cables for future trusses.  Inspected P1 NTA"
+USA,Soichi Noguchi | Steve Robinson,STS-114/LF1,2005-07-30,410.0,Shuttle based EVA.  Demonstrated repairs of Shuttle thermal protection (tile emittance wash and NOAX on RCC cracks).  Installed External Stowage Platform Attachment Device (ESPAD) outside ISS airlock
+USA,Soichi Noguchi | Steve Robinson,STS-114/LF1,2005-08-01,434.0,Shuttle based EVA.  Replaced ISS CMG#1.  Stowed old CMG in PLB 
+USA,Soichi Noguchi | Steve Robinson,STS-114/LF1,2005-08-03,361.0,"Shuttle based EVA.  Attached External Stowage Platform (ESP2) to ISS, removed/returned ESP2's grapple fixture, installed ISS solar cell exposure experiment MISSE 5, opened/closed sample lid to enable robotic survey of thermal protection samples and removed two Shuttle tile gap fillers.  Inspected/photographed solar beta gimbal assembly restraint bolts and floating potential probe"
+USA,Bill McArthur | Valeri Tokarev,Incr-12,2005-11-07,322.0,"ISS based EVA.  Egress delayed by 1 hr due to overlooked valve.  Installed P1 TV camera, removed S1 thermal rotary joint motor controller, jettisoned P6 floating potential probe and replaced RPCM of mobile transporter"
+USA,Piers Sellers | Mike Fossum,STS-121 / ULF1.1,2006-07-08,451.0,ISS based EVA.  Installed cable cutter blade blocker on mobile transporter zenith interface umbilical assembly (IUA).  Demonstrated use of RMS and boom as EV crew work platform for Shuttle thermal protection repairs
+USA,Piers Sellers | Mike Fossum,STS-121 / ULF1.1,2006-07-10,407.0,ISS based EVA.  Replaced the mobile transporter's nadir IUA and trailing umbilical cable reel.  Stowed thermal system spare pump on ISS airlock pallet
+USA,Piers Sellers | Mike Fossum,STS-121 / ULF1.1,2006-07-12,431.0,ISS based EVA.  Tested NOAX repairs on samples of Shuttle RCC thermal protection.  Tested infrared camera on ISS radiators and Shuttle RCC
+USA,Jeff Williams | Thomas Reiter,Incr-13,2006-08-03,354.0,ISS based EVA.  Installed floating point measurement unit on S1.  Installed MISSE 3 &4 on airlock
+USA,Joe Tanner | Heide Stefanyshyn-Piper,STS-115/12A,2006-09-12,386.0,ISS based EVA.  Connected the P1/P3 lower and upper tray umbilicals.  Released solar array launch restraints and positioned the stowed arrays for automated deployment
+USA,Dan Burbank | Steve MacLean,STS-115/12A,2006-09-13,431.0,ISS based EVA.  Removed solar array alpha joint launch locks and restraints.  Lost a bolt from a launch lock cover
+USA,Joe Tanner | Heide Stefanyshyn-Piper,STS-115/12A,2006-09-15,402.0,ISS based EVA.  Retrieved MISSE-5 experiment.  Installed bolt retainers on the P6 beta gimbal struts
+USA,Robert Curbeam | Christer Fuglesang,STS-116/12A.1,2006-12-12,396.0,ISS based EVA.  Removed launch locks from the P5 truss.  Aided alignment and secured the P5 truss to the P4 truss
+USA,Robert Curbeam | Christer Fuglesang,STS-116/12A.1,2006-12-14,300.0,ISS based EVA.  Reconfigured electrical cables of power channels 2 and 3 and Z1 patch panel.  Relocated both CETA carts (13A prep)
+USA,Robert Curbeam | Sunita Williams,STS-116/12A.1,2006-12-16,451.0,"ISS based EVA.  Reconfigured electrical cables of power channels 1 and 4, Z1 patch panel and Russian power.  Transfered Service Module MMOD protection panels to PMA3"
+USA,Robert Curbeam | Christer Fuglesang,STS-116/12A.1,2006-12-18,398.0,ISS based EVA.  Manually aided full retract of P6 port solar array.  Inspected P6 stbd solar array
+USA,Mike Lopez-Alegria | Sunita Williams,Incr-14,2007-01-31,475.0,ISS based EVA.  Established permanent configuration of the electrical and fluid lines of the loop A thermal system.  Secured and covered the stowed P6 stbd radiator. Relocated 1 of 2 ammonia servicer jumpers
+USA,Mike Lopez-Alegria | Sunita Williams,Incr-14,2007-02-04,431.0,ISS based EVA.  Established permanent configuration of the electrical and fluid lines of the loop B thermal system.  NH3 leakage induced bakeout and contamination sensing
+USA,Peggy Whitson | Dan Tani,Incr-16,2007-11-20,436.0,ISS based EVA.  Installed stbd thermal cooling lines on Node 2.  Connected elec cables to PMA2
+USA,Mike Lopez-Alegria | Sunita Williams,Incr-14,2007-02-08,400.0,ISS based EVA.  Removed and jettisoned 4 thermal shrouds. Deployed P3 cargo attachment sit.  Removed last 2 launch locks from the P5 truss. Finished installation of ISS to Shuttle power transfer cables and reinstalled an in-cabin reconfigured foot restraint
+USA,Jim Reilly | Danny Olivas,STS-117/13A,2007-06-11,375.0,ISS based EVA.  Connected electrical lines btw S1 and S3/S4 trusses.  Unstowed solar array blanket boxes and beta gimbals
+USA,Pat Forrester | Steve Swanson,STS-117/13A,2007-06-13,436.0,"ISS based EVA.  Aided retraction of enough bays of P6 solar array to permit alpha joint rotation.  Removed 10 of 16 launch locks, deloyed braces and engaged drive lock of S3 solar array alpha joint"
+USA,Danny Olivas | Jim Reilly,STS-117/13A,2007-06-15,478.0,ISS based EVA.  Replaced vent valve on Lab for US O2 generator.  Secured loose thermal blanket on Shuttle OMS pod
+USA,Pat Forrester | Steve Swanson,STS-117/13A,2007-06-17,389.0,ISS based EVA.  Opened H2 vent for new US O2 generator.  Installed video camera stand
+USA,Clay Anderson | Fyodor Yurchikhin,Incr-15,2007-07-23,461.0,ISS based EVA.  Installed a video camera stand and jettisoned its stowage restraints.  Replaced a failed RPCM to restore mobile transporter power redundancy
+USA,Rick Mastracchio | Dave Williams,STS-118/13A.1,2007-08-11,377.0,ISS based EVA.  Installed the S5 truss and connected S4-S5 electrical lines.  Relocated the radiator grapple fixture on S5
+USA,Rick Mastracchio | Dave Williams,STS-118/13A.1,2007-08-13,388.0,ISS based EVA.  Replaced failed CMG 3 and stowed failed unit on pallet outside ISS airlock for return on future Shuttle mission.  Photographed MISSE 3 & 4 experiments
+USA,Rick Mastracchio | Clay Anderson,STS-118/13A.1,2007-08-15,328.0,ISS based EVA.  Relocated the S-band antenna from P6 to P1 and installed new signal processor and transponder on P1.  Retrieved P6 transponder
+USA,Dave Williams | Clay Anderson,STS-118/13A.1,2007-08-18,302.0,ISS based EVA.  Installed the Orbiter inspection boom restraints on S1.  Engaged S-band antenna gimbal locks on Z1
+USA,Scott Parazynski | Doug Wheelock,STS-120/10A,2007-10-26,374.0,ISS based EVA.  Stowed old S-band antenna in Shuttle for return.  Released launch power cable from Node 2 and temp secured grapple fixture on Node 2
+USA,Scott Parazynski | Dan Tani,STS-120/10A,2007-10-28,393.0,"ISS based EVA.  Demated Z1 to P6 umbilicals and attachment bolts.  Installed Node 2 EVA aids (handrails, foot restraint sockets, slidewire)"
+USA,Scott Parazynski | Doug Wheelock,STS-120/10A,2007-10-30,428.0,ISS based EVA.  Connected 4 bolts and 4 cables to mate P6 to P5.  Inspected port solar array alpha joint and found no issues
+USA,Scott Parazynski | Doug Wheelock,STS-120/10A,2007-11-03,439.0,"ISS based EVA.  Inspected and repaired damaged P6 solar array and supported full deployment.  Installed 5 ""cuff links"" as reinforcements for separated panel hinges"
+USA,Peggy Whitson | Yuri Malenchenko,Incr-16,2007-11-09,415.0,"ISS based EVA.  Prepared PMA2 for relocation to Node 2.  Demated electrical cables, removed light on Lab and removed thermal cover from Node 2 fwd port"
+USA,Peggy Whitson | Dan Tani,Incr-16,2007-11-24,424.0,ISS based EVA.  Installed port thermal cooling lines on Node 2.  Connected elec cables to PMA2
+USA,Peggy Whitson | Dan Tani,Incr-16,2007-12-18,416.0,ISS based EVA.  Inspected stbd solar array alpha and beta joints.  No obvious causes found for rotation issues
+USA,Peggy Whitson | Dan Tani,Incr-16,2008-01-30,430.0,ISS based EVA.  Replaced failed solar array beta gimbal unit and inspected alpha joint
+USA,Rex Walheim | Stan Love,STS-122/1E,2008-02-11,478.0,"ISS based EVA.  Enabled Columbus installation (demated STS heater cables, installed grapple fixture, removed window & berthing mech covers) and began prep of nitrogen tank transfer by loosening bolts.  Accidently found possible source of cut gloves on airlock handrail (MMOD impact)"
+USA,Rex Walheim | Hans Schlegel,STS-122/1E,2008-02-13,405.0,ISS based EVA.  Replaced nitrogen tank on P1 truss and installed old tank on Shuttle for earth return.  Installed trunnion covers on Columbus
+USA,Rex Walheim | Stan Love,STS-122/1E,2008-02-15,445.0,ISS based EVA.  Installed 2 ESA science experiments. Photographed sharp edge on airlock handrail
+USA,Rick Linnehan | Garrett Reisman,STS-123/1JA,2008-03-13,421.0,ISS based EVA.  Enabled installation of Japanese logisics module by demating heater cables and removed berthing mechanism covers.  Installed tool devices on Canadian SPDM robot arms
+USA,Rick Linnehan | Mike Foreman,STS-123/1JA,2008-03-15,428.0,ISS based EVA.  Installed both arms on Canadian SPDM robot.  Had to use prybar to release 2 expandable dia fasteners
+USA,Rick Linnehan | Robert Behnken,STS-123/1JA,2008-03-17,413.0,"ISS based EVA. Installed cameras, lights and tool and spares holders on SPDM.  Removed all but a few blankets from SPDM.  Readied SPDM's spacelab pallet for return via Shuttle"
+USA,Robert Behnken | Mike Foreman,STS-123/1JA,2008-03-20,384.0,"ISS based EVA.  Replaced failed RPCM to permit separate power to CMG2, but not able to demate elec connector of Z1 patch panel to enable power reconfig.  Tested Shuttle tile repair materials, tools and techniques"
+USA,Robert Behnken | Mike Foreman,STS-123/1JA,2008-03-22,362.0,ISS based EVA.  Stowed Shuttle inspection boom on ISS S1 truss with keep alive power.  Installed trundle bearing on stbd solar array alpha joint and completed inspections under joint covers
+USA,Mike Fossum | Ron Garan,STS-124/1J,2008-06-03,408.0,"ISS based EVA. Released special launch restraint of elbow camera of Shuttle robotic arm. Demated Shuttle inspection boom from ISS truss to permit return/use. Prepared Japanese module for install by demating cables from Shuttle, removing berthing mech covers and releasing window locks. Worked on damaged solar array joint by reinstalling trundle bearing, confirming divot and demonstrating cleaning and lubrication. Verified cargo latch ops on mobile transporter. Removed solar array joint launch restraint."
+USA,Mike Fossum | Ron Garan,STS-124/1J,2008-06-05,431.0,"ISS based EVA. Installed 2 cameras for JEM robot arm op.  Removed thermal covers from JEM arm.  Prepped JEM berthing mech for stowage module relocation (remove cover, release launch restraints, eliminate insulation interference)"
+USA,Mike Fossum | Ron Garan,STS-124/1J,2008-06-08,393.0,"ISS based EVA. Replaced N2 tank on S1 truss.  Reinstalled repaired truss camera.  Finished JEM interfaces (window launch locks, berthing mech MMOD shields, robotic arm insulation/launch lock). Sampled port solar array joint contamination"
+USA,Heide Stefanyshyn-Piper | Steve Bowen,STS-126/ULF2,2008-11-18,412.0,ISS based EVA. Empty N2 tank transferred to Shuttle.  Spare flex hose rotary coupler relocated to ISS.  Thermal covers removed from JEM ext facility berthing mechanism
+USA,Chris Cassidy | Tom Marshburn,STS-127/2JA,2009-07-27,294.0,ISS based EVA.  Adjusted SPDM thermal covers.  Reconfiged elec connectors of Z1 patch panel to restore CMG pwr redundancy
+USA,Heide Stefanyshyn-Piper | Shane Kimbrough,STS-126/ULF2,2008-11-20,405.0,ISS based EVA. Relocated both CETA carts from stbd to port truss to prep for S6 truss assy on next STS flt.  Continued replacement of cleaning/lube of stbd solar array joint and replacement of trundle bearings.  Overtightened one new trundle bearing and had to use spare
+USA,Heide Stefanyshyn-Piper | Steve Bowen,STS-126/ULF2,2008-11-22,417.0,ISS based EVA. Replaced all of the remaining stbd trundle bearings except one.  Cleaned and lubed stbd race ring.
+USA,Steve Bowen | Shane Kimbrough,STS-126/ULF2,2008-11-24,367.0,ISS based EVA. Lubricated port SARJ race ring.  Replaced last trundle bearing on stbd SARJ.  Retracted failed latch of JEM ext facility berth mech and installed covers
+USA,Steve Swanson | Richard Arnold,STS-119/15A,2009-03-19,367.0,"ISS based EVA. Bolted S6 to S5 truss and mated electrical cables.  Stowed X6 keel pin, deployed solar array linkages (1 of 4 latches did not engage), removed/jettisoned avionics thermal covers, released radiator restraints and removed blanket box restraints.  Deployed S6 avionics MMOD shield"
+USA,Steve Swanson | Joseph Acaba,STS-119/15A,2009-03-21,390.0,"ISS based EVA. Loosened restraints of P6 batteries for future replacement.  Unable to fully deploy P3 interface for future ORU spares (adj diameter pin suspect).  Due to time, deferred S3 payload attach sys deploy"
+USA,Richard Arnold | Joseph Acaba,STS-119/15A,2009-03-23,387.0,ISS based EVA. Relocated one CETA cart from port to stbd side of mobile transporter.  Again unable to finish deploy of P3 spares attach sys.  Again deferred S3 payload attach deploy and Z1 patch panel reconfig
+USA,John Grunsfeld | Andrew Feustel,STS-125/HST 4,2009-05-14,440.0,HST servicing.  Replaced wide field camera (after high torque time consuming bolt release) and science computer.  Installed soft capture mechanism for future automated disposal mission
+USA,Mike Massimino | Mike Good,STS-125/HST 4,2009-05-15,476.0,HST servicing.  Replaced 3 of 3 gyro packages and 1st group of 3 batteries.  Tolerance issue forced installation of 1 non-optimum but adequate spare gyro
+USA,John Grunsfeld | Andrew Feustel,STS-125/HST 4,2009-05-16,396.0,HST servicing.  Replaced COSTAR with cosmic origins spectrograph (COS).  Repaired failed advanced camera for surveys (ACS) with removal of 4 detector circuit boards and installation of new power supply and new detector circuit boards
+USA,Mike Massimino | Mike Good,STS-125/HST 4,2009-05-17,482.0,HST servicing.  Repaired failed space telescope imaging spectrograph (STIS) with new power supply board.  Time lost to stuck handrail bolt and failed power tool battery
+USA,John Grunsfeld | Andrew Feustel,STS-125/HST 4,2009-05-18,422.0,HST servicing.  Installed 2nd/last group of batteries.  Replaced fine guidance sensor (FGS)
+USA,Dave Wolf | Tim Kopra,STS-127/2JA,2009-07-18,332.0,ISS based EVA. Aided JEM exposed facility install by jettisoning berthing mech covers and removing launch heater cable.  Aided spares pallet transfer by removing launch heater cable.  Removed JEM robot arm ground tab
+USA,Dave Wolf | Tom Marshburn,STS-127/2JA,2009-07-20,412.0,ISS based EVA.  Transfered 3 large spares to ISS.  Installed grapple bar on P1 ammonia tank as prep for future replace
+USA,Dave Wolf | Chris Cassidy,STS-127/2JA,2009-07-22,359.0,ISS based EVA.  Relocated foot restraint socket for HTV arrival prep. Prepped 3 payloads for robotic install outside JEM. Installed 2 of 6 ground connector sleeves for Shuttle to ISS power transfer sys.  Replaced 2 batteries on P6 truss and stowed 2 old batts in Shuttle for return. Stopped early due to suit CO2 increase induced by high work rate
+USA,Chris Cassidy | Tom Marshburn,STS-127/2JA,2009-07-24,432.0,ISS based EVA.  Replaced 4 batteries on P6 truss and stowed old batts in Shuttle for return.  
+USA,Danny Olivas | Nicole Stott,STS-128/17A,2009-09-01,395.0,ISS based EVA.  Removed NH3 tank from P1 and temp stowed.  Transferred MISSE 6a/b & EuTEF experiments to Shuttle
+USA,Danny Olivas | Christer Fugelsang,STS-128/17A,2009-09-03,399.0,ISS based EVA.  Start delayed to redo prebreathe after comm cap readjust.  Installed new NH3 tank on P1 and stowed old tank on Shuttle
+USA,Danny Olivas | Christer Fugelsang,STS-128/17A,2009-09-05,421.0,ISS based EVA.  Deployed S3 zenith pallet.  Replaced failed rate gyro #2 and RPCM on S0
+USA,Mike Foreman | Robert Satcher,STS-129/ULF3,2009-11-19,397.0,ISS based EVA.  Installed spare Sband antenna and cables for spare Kuband antenna.  Prepped for Node3 install (replace handrail w/ NH3 line bracket)
+USA,Mike Foreman | Randy Bresnick,STS-129/ULF3,2009-11-21,368.0,ISS based EVA.  Installed ham radio antennas on Columbus.  Relocated floating potential measure unit from S1 to P1. Deployed the last two payload attach structures and installed wireless video transcvr (all on S3)
+USA,Robert Satcher | Randy Bresnick,STS-129/ULF3,2009-11-23,342.0,ISS based EVA.  Start delayed by detached drink bag valve. Relocated some airlock MMOD shields and installed O2 tank outside US airlock. Installed MISSE experiments 7A & 7B on external logistics carrier. Released bolt on NH3 tank. Installed thermal covers on mobile base and two fluid jumpers. Relocated a foot restraint
+USA,Bob Behnken | Nick Patrick,STS-130/20A,2010-02-11,392.0,ISS based EVA.  Prepared Node 3 for ISS install by removing covers and heater cables.  Prepositioned ammonia lines and thermal covers
+USA,Bob Behnken | Nick Patrick,STS-130/20A,2010-02-13,353.0,"ISS based EVA.  Outfitted Node 3 by installing 2 NH3 lines, heater cables, trunnion/keel thermal covers, negative pressure vent, handrail gap spanners and 8 handrails.  Opened loop A NH3 line and nadir berthing mechanism pedals and centerline camera thermal cover"
+USA,Bob Behnken | Nick Patrick,STS-130/20A,2010-02-16,348.0,ISS based EVA.  Connected PMA3 heater and data cables.  Opened loop B NH3 line
+USA,Rick Mastracchio | Clayton Anderson,STS-131/19A,2010-04-09,388.0,ISS based EVA.  Temp stowed new NH3 tank on ISS robot arm.  Retrieved JAXAA's MPAC/SEED experiment for return
+USA,Rick Mastracchio | Clayton Anderson,STS-131/19A,2010-04-11,446.0,ISS based EVA.  Removed old NH3 tank and temp stowed on CETA cart.  Overcame a troublesome bolt and installed new NH3 tank/cables
+USA,Rick Mastracchio | Clayton Anderson,STS-131/19A,2010-04-13,384.0,ISS based EVA.  Finished installing new NH3 tank (fluid lines).  Stowed old NH3 tank (despite a balky bolt) and airlock MMOD shields for Shuttle return
+USA,Garrett Reisman | Steve Bowen,STS-132/ULF4,2010-05-17,445.0,ISS based EVA.  Installed an operational spare Ku antenna boom and dish on Z1.  Installed ORU holder on SPDM
+USA,Steve Bowen | Michael Good,STS-132/ULF4,2010-05-19,429.0,ISS based EVA.  Unsnagged cable of orbiter inspection boom sensor.  Replaced 4 batteries on P6
+USA,Garrett Reisman | Michael Good,STS-132/ULF4,2010-05-21,406.0,ISS based EVA.  Installed NH3 jumper on port truss.  Replaced 2 batteries on P6
+USA,Doug Wheellock Tracy Caldwell Dyson,Incr-24,2010-08-07,483.0,"ISS based EVA.  Demated 3 of 4 NH3 connectors from failed coolant pump, but the 4th leaked and was left installed.  Ended work to do suit decontamination. EV2 CO2 sensor failed"
+USA,Doug Wheellock Tracy Caldwell Dyson,Incr-24,2010-08-11,446.0,"ISS based EVA.  After remote cmds reduced upstream pressure, demated 4th NH3 connector and then demated electrical connectors.  Installed grapple fixture, unbolted old pump, temp stowed it and then demated electrical connectors of new pump"
+USA,Doug Wheellock Tracy Caldwell Dyson,Incr-24,2010-08-16,440.0,ISS based EVA.  Installed new coolant pump and stowed support equipment.  Connected CETA carts to mobile transporter for unobstructed remote cmd translation.
+USA,Steve Bowen | Alvin Drew,STS-133/ULF5,2011-02-28,394.0,ISS based EVA.  Installed backup power cable for new stowage module.  Relocated failed pump module and prepped it for NH3 venting to enable future return
+USA,Steve Bowen | Alvin Drew,STS-133/ULF5,2011-03-02,374.0,ISS based EVA.  Late start due to suit leak from damaged CO2 can O-ring.  Vented NH3 from failed pump module enabling future return. Retrieved tool stowage bags used in past pump replacement
+USA,Andrew Feustel | Greg Chamitoff,STS-134/ULF6,2011-05-20,379.0,"ISS based EVA.  Retrieved MISSE 7.  Installed MISSE 8, light on S3, stbd SARJ cover and port truss NH3 jumper (for radiator leak topoff). Vented N2 from port NH3 servicer lines and disconnected line across SARJ for overnight motions"
+USA,Andrew Feustel | Mike Fincke,STS-134/ULF6,2011-05-22,487.0,"ISS based EVA.  Reconnected fill line, refilled P6 radiator NH3, vented refill lines and disconnected line across SARJ.  Did suit solar bakeout due to suspected NH2 leak from disconnect. Lubricated 1/3 of port SARJ (lost 1 bolt & 3 washers from joint covers, one cover returned to airlock due to too few remaining bolts) and SPDM end effector"
+USA,Andrew Feustel | Mike Fincke,STS-134/ULF6,2011-05-25,414.0,"ISS based EVA.  Installed FGB PDGF/stand, video signal conditioner and a portion of associated cables.  Installed cables for backup power from US to Russian segment"
+USA,Mike Fincke | Greg Chamitoff,STS-134/ULF6,2011-05-27,444.0,ISS based EVA.  Permanently stowed orbiter inspection boom on ISS to expand future EVA/robotic reach for maint.  Removed P6 PDGF and installed on orbiter boom in place of EFGF to enable SSRMS handling
+USA,Ron Garan | Mike Fossum,ISS-Incr 28 during STS-135/ULF7,2011-07-12,391.0,ISS based EVA.  Transfered failed 1400lb pump module from ISS to Shuttle for return.  Transfered GSFC's satellite robotic refueling demo unit from Shuttle to ISS
+USA,Sunita Williams | Akihiko Hoshide,ISS-Incr 32,2012-08-30,497.0,ISS based EVA.  Installed 1 of 2 power cables for future MLM use.  Removed and stowed failed MBSU
+USA,Sunita Williams | Akihiko Hoshide,ISS-Incr 32,2012-09-05,388.0,"ISS based EVA.  Removed MBSU after releasing alignment sensitive bolt.  Photographed, inspected, cleaned and lubricated mechanical bolts and receptacles"
+USA,Sunita Williams | Akihiko Hoshide,ISS-Incr 32,2012-11-01,398.0,Bypassed coolant system ammonia leak with jumper connections and backup radiator deployment.  Inspected solar array joint for cause of recent increase in friction.
+USA,Chris Cassidy | Tom Marshburn,ISS Incr-35,2013-05-11,331.0,Replaced P6 truss pump flow control system box due to leak in coolant system.  Stowed old unit.  Performed precautionary ammonia bakeout.
+USA,Chris Cassidy | Luca Parmitano,ISS Incr-36,2013-07-09,367.0,Replaced failed Ku antenna avionics.  Retrieved 2 materials exposure experiments.  Took photos of contaminated radiator of AMS
+USA,Chris Cassidy | Luca Parmitano,ISS Incr-36,2013-07-16,92.0,EVA terminated early due to free water in EV2's helmet.  Completed install of Z1 bypass jumper cable and FGB PDGF data cable.  Partially routed MLM data cable.
+Russia,Alexei Leonov,Voskhod 2,1965-03-18,12.0,"WorldÂs first EVA, Berkut umbilical suit, Volga inflatable airlock.  Had to partially reduce suit pressure to turnaround in airlock and close hatch"
+Russia,Aleksei Yeliseyov | Yevgeni Khrunov,Soyuz 4&5,1969-01-16,37.0,"New airlock, Yastreb self-contained life support suit, vehicle-vehicle EVA crew transfer.  Lost camera"
+Russia,Victor Lazerov | Oleg Makarov,Soyuz 12,1973-09-01,0.0,New Orlan D suits checked out inside cabin
+Russia,Yuri Romanenko | Georgi Grechko,Soyuz 26|Salyut 6,1977-12-20,88.0,Docking unit inspection. Tested new Orlan D suits.  G. saves R. from untethered loss out of airlock.  Both always attached via umbilicals??
+Russia,Vladimir Kovalyonok | Alexandr Ivanchenkov,Soyuz 29|Salyut 6,1978-07-29,125.0,"Replace scientific samples, test new suits"
+Russia,Vladimir Lyakhov | Valeri Ryumin,Soyuz 32|Salyut 6,1979-08-15,83.0,"Free damaged/jammed 10m diameter KRT-10 antenna with cable cutters, forked stick and boot"
+Russia,Anatoli Berezovsky | Valentin Lebedev,Soyuz T-5|Salyut 7,1982-07-30,153.0,"Replace scientific equipment, remove ISTOK-2 exposed materials/structure.  Improved Orlan D suit used."
+Russia,Vladimir Lyakhov | Alexandr Alexandrov,Soyuz T-9|Salyut 7,1983-11-01,169.0,"After in-cabin improvised repair of damaged suit leg bladder using aluminum ring and rubber, installed one solar array addition"
+Russia,Vladimir Lyakhov | Alexandr Alexandrov,Soyuz T-9|Salyut 7,1983-11-03,175.0,Install second solar array addition
+Russia,Leonid Kizim | Vladimir Solovyov,Soyuz T-10|Salyut 7,1984-04-23,255.0,"Place tool boxes, equipment, portable ladder.  Use pnuematic punch & cutter to get thru station skin.   "
+Russia,Leonid Kizim | Vladimir Solovyov,Soyuz T-10|Salyut 7,1984-04-26,300.0,"Install pipe/valve, purge and leak check manfold"
+Russia,Leonid Kizim | Vladimir Solovyov,Soyuz T-10|Salyut 7,1984-04-29,165.0,"Add pipe, leak check, cover with blanket"
+Russia,Leonid Kizim | Vladimir Solovyov,Soyuz T-10|Salyut 7,1984-05-04,165.0,Continue leaky propellant line repair/replace
+Russia,Leonid Kizim | Vladimir Solovyov,Soyuz T-10|Salyut 7,1984-05-18,183.0,Install solar array additions (2).  Jettison boxes
+Russia,Leonid Kizim | Vladimir Solovyov,Soyuz T-10|Salyut 7,1984-08-08,300.0,Remove thermal cover w/ special tool.  Seal leaky propellant oxidizer pipe with pinching device.  Cu
+Russia,Svetlana Savitskaya | Vladimir Dzhanibekov,Soyuz T-12|Salyut 7,1984-07-25,214.0,"First female EVA.  Welding, cutting, soldering, metal spraying with Paton Institute tool"
+Russia,Vladimir Dzhanibekov | Victor Savinykh,Soyuz T-13|Salyut 7,1985-08-02,298.0,"Install solar array addition (2), install French ISTOK-EM micro-meteroid collectors, test new Orlan DM suit"
+Russia,Leonid Kizim | Vladimir Solovyov,Soyuz T-15|Salyut 7,1986-05-28,220.0,Ferma-Postroite 15m truss deploy/stow.  Install Mayak optical instrument.  Retrieve ISTOK-EM material samples
+Russia,Leonid Kizim | Vladimir Solovyov,Soyuz T-15|Salyut 7,1986-05-31,301.0,Ferma-Postroite 15m truss deploy after installing vibration measurement unit. Complete Mayak deploy manually.  Weld truss joints.  
+Russia,Yuri Romanenko | Alexandr Laveykin,Soyuz TM-2|Mir,1987-04-11,219.0,Debris removed to restore docking between Kvant and Mir modules.  Robot arm temporarily increased distance between Kvant & Mir for manual debris access.  L. tried low suit P reg position which did not immediately stabilize
+Russia,Yuri Romanenko | Alexandr Laveykin,Soyuz TM-2|Mir,1987-06-12,113.0,Assembly of modified solar arrays
+Russia,Yuri Romanenko | Alexandr Laveykin,Soyuz TM-2|Mir,1987-06-16,195.0,Assembly of modified solar arrays
+Russia,Vladimir Titov | Musa Manarov,Soyuz TM-4|Mir,1988-02-26,250.0,"Disassemble modified arrays, install test arrays"
+Russia,Vladimir Titov | Musa Manarov,Soyuz TM-4|Mir,1988-06-30,310.0,Replace Xray telescope detector module
+Russia,Vladimir Titov | Musa Manarov,Soyuz TM-4|Mir,1988-10-20,252.0,"Complete replacement of telescope detector module, use new Orlan DMAÂs"
+Russia,Alexandr Volkov | Jean-Louc Chretien,Soyuz TM-7|Mir,1988-12-09,357.0,French ERA truss experiment deploy and jettison.  Deploy Enchantillon materials experiment
+Russia,Alexandr Viktorenko | Alexandr Serebrov,Soyuz TM-8|Mir,1990-01-08,177.0,Install 2 star trackers on Kvant 1.  Remove MMK2 panel from base block
+Russia,Valeri Tsibliyev | Alexandr Serebrov,Soyuz TM-17|Mir 16,1993-09-16,259.0,"Install stowed Rapana small truss on Kvant1.  Install material samples (Indikator, Plenka5, Strakhovka)"
+Russia,Alexandr Viktorenko | Alexandr Serebrov,Soyuz TM-8|Mir,1990-01-11,178.0,"Kvant 1 science installed (Arfa-9, SKK-1, SKK-3), ERA supports disassembled, docking system hatch relocation as prep for Kristall.  Retrieve Enchantillon experiment"
+Russia,Alexandr Viktorenko | Alexandr Serebrov,Soyuz TM-8|Mir,1990-01-26,182.0,"MMU mooring post/winch installed, Atlas TV and Ferrer/Daneo science installed, solar array fasteners inspected, checkout of Kvant2 airlock and new Orlan DMA w/o umbilical"
+Russia,Alexandr Viktorenko | Alexandr Serebrov,Soyuz TM-8|Mir,1990-02-01,299.0,Checkout Kvant 2 airlock & new Orlan DMA.  MMU flown tethered for 40 min to 33m.  
+Russia,Alexandr Viktorenko | Alexandr Serebrov,Soyuz TM-8|Mir,1990-02-05,225.0,Checkout Kvant 2 airlock & new Orlan DMA.  MMU flown tethered for 93 min to 45m.  SPIN-6000 rad sensor on MMU
+Russia,Anatoli Solovyov | Alexandr Balandin,Soyuz TM-9|Mir,1990-07-17,420.0,"Reattach Soyuz thermal insulation blanket, Kvant 2 airlock hatch damaged.  Ingress into backup airlock of Kvant2"
+Russia,Anatoli Solovyov | Alexandr Balandin,Soyuz TM-9|Mir,1990-07-26,232.0,Soyuz repair access ladder stowed.  Kvant 2 airlock hatch inspected and forced closed
+Russia,Gennady Manakov | Gennady Strekalov,Soyuz TM-10|Mir,1990-10-29,185.0,"Kvant 2 airlock hatch repair (remove insulation, temp fix to hinge), dismount ATLAS TV camera"
+Russia,Victor Afanasyev | Musa Manarov,Soyuz TM-11|Mir,1991-01-07,319.0,Kvant 2 airlock hatch hinge replacement
+Russia,Victor Afanasyev | Musa Manarov,Soyuz TM-11|Mir,1991-01-23,334.0,Cargo transfer boom installed on core module (using bolt hole punch).  Ferrer science retrieved
+Russia,Victor Afanasyev | Musa Manarov,Soyuz TM-11|Mir,1991-01-26,379.0,Truss installation for solar arrays on Kvant-1.  Install Kurs reflectors.  Accidental damage to Kurs
+Russia,Victor Afanasyev | Musa Manarov,Soyuz TM-11|Mir,1991-04-25,214.0,Inspect damaged Kurs antenna on Kvant-1.  Install repaired ATLAS TV camera.  Test thermo mechanical joints of Sofora truss
+Russia,Sergei Krikalev | Anatoli Artsebarsky,Soyuz TM-12|Mir,1991-06-25,298.0,Repair Kvant1 Kurs antenna.  Connect ATLAS TV connectors.  Test thermo mechanical joints of Sofora truss
+Russia,Sergei Krikalev | Anatoli Artsebarsky,Soyuz TM-12|Mir,1991-06-28,204.0,Install TREK radiation exp.  Install scanning TV camera for EVA monitoring
+Russia,Sergei Krikalev | Anatoli Artsebarsky,Soyuz TM-12|Mir,1991-07-15,356.0,Transfer Sofora 14.5m truss mounting platform to Kvant1
+Russia,Sergei Krikalev | Anatoli Artsebarsky,Soyuz TM-12|Mir,1991-07-19,328.0,Assemble Sofora 14.5m truss (sections 1-3)
+Russia,Sergei Krikalev | Anatoli Artsebarsky,Soyuz TM-12|Mir,1991-07-23,342.0,Assemble Sofora 14.5m truss (sections 4-14)
+Russia,Sergei Krikalev | Anatoli Artsebarsky,Soyuz TM-12|Mir,1991-07-27,409.0,Assemble and elevate Sofora 14.5m truss (sections 15-17).  A. helmet fogged over forcing guide down truss by K.  Jettison old suit
+Russia,Alexandr Volkov | Sergei Krikalev,Soyuz TM-13|Mir,1992-02-20,253.0,"V. suit cooling sublimator failed so must stay on umbilical.  Base block solar panel section collected.  Material experiments deployed and retrieved on Kvant2 (Sprut, SKK, DankoM, Plenka)"
+Russia,Alexandr Viktorenko | Alexandr Kaleri,Soyuz TM-14|Mir,1992-07-08,123.0,Kvant 2 gyrodyne inspected after insulation blankets cut.  Test EVA binoculars
+Russia,Anatoli Solovyov | Sergei Avdeyev,Soyuz TM-15|Mir,1992-09-03,236.0,Prepare 700kg thruster box for Sofora truss.  Install truss hinge lock
+Russia,Anatoli Solovyov | Sergei Avdeyev,Soyuz TM-15|Mir,1992-09-07,308.0,Install thruster control cables on Sofora truss.  Attach truss to thruster box mounted on Progress
+Russia,Anatoli Solovyov | Sergei Avdeyev,Soyuz TM-15|Mir,1992-09-11,344.0,Install thruster box on Sofora truss and deploy to ops pos
+Russia,Anatoli Solovyov | Sergei Avdeyev,Soyuz TM-15|Mir,1992-09-15,213.0,Move Kurs antenna on Kristall.  Retrieve science
+Russia,Gennady Manakov | Alexandr Poleshchuk,Soyuz TM-16|Mir 15,1993-04-19,325.0,"Relocated solar array control base from Kristall to Kvant-1.  Vent problem in 1 suit, crane handle lost"
+Russia,Gennady Manakov | Alexandr Poleshchuk,Soyuz TM-16|Mir 15,1993-06-18,272.0,Relocated second solar array base from Kristall to Kvant-1
+Russia,Valeri Tsibliyev | Alexandr Serebrov,Soyuz TM-17|Mir 16,1993-09-20,193.0,Deploy Rapana small truss with material samples 
+Russia,Valeri Tsibliyev | Alexandr Serebrov,Soyuz TM-17|Mir 16,1993-09-28,111.0,Inspect for Perseid meteor shower damage.  Place Danko-M construction materials for exposure.  Retrieve one TREK panel
+Russia,Valeri Tsibliyev | Alexandr Serebrov,Soyuz TM-17|Mir 16,1993-10-22,37.0,Exterior inspections started.  SKK science deployed.  O2 failure in S's suit stops work
+Russia,Valeri Tsibliyev | Alexandr Serebrov,Soyuz TM-17|Mir 16,1993-10-29,252.0,"Complete Panorama exterior inspections, discard used Orlan suit"
+Russia,Yuri Malenchenko | Talgat Musabeyev,Soyuz TM-18|Mir 17,1994-09-09,305.0,"Inspect Progress docking system, prepare base for 2nd cargo boom (with hole punch), material science deployed/retrieved (Platan 4/5, SKK)"
+Russia,Yuri Malenchenko | Talgat Musabeyev,Soyuz TM-18|Mir 17,1994-09-13,365.0,Inspect Kristall solar arrays before retraction/move to Kvant-1.  Tighten restraint bolts for Sofora and solar array bases.  Mount amateur radio antenna
+Russia,Vladimir Dezhurov | Gennady Strekalov,Soyuz TM-19|Mir 18,1995-05-12,368.0,Install electrical cables and adjust solar array actuators on Kvant-1.  Practice folding 3 solar array panels on Kristall
+Russia,Vladimir Dezhurov | Gennady Strekalov,Soyuz TM-19|Mir 18,1995-05-17,410.0,"Fold one Kristall solar array, move it to Kvant-1 using cargo crane, tie off temporarily"
+Russia,Vladimir Dezhurov | Gennady Strekalov,Soyuz TM-19|Mir 18,1995-05-22,315.0,Fold all but 10 feet of second Kristall solar array and finish installing other array on Kvant-1
+Russia,Vladimir Dezhurov | Gennady Strekalov,Soyuz TM-19|Mir 18,1995-05-29,21.0,Move base block docking port for Kristall move
+Russia,Vladimir Dezhurov | Gennady Strekalov,Soyuz TM-19|Mir 18,1995-06-16,23.0,Move base block docking port in prep for Spektr docking
+Russia,Anatoly Solovyev | Nikola Budarin,Soyuz TM-20|Mir 19,1995-07-14,334.0,"Cut launch restraint of Spektr solar array with U.S. tool, resecure amateur radio antenna, retether cargo crane to free Kvant-2 solar array"
+Russia,Anatoly Solovyev | Nikola Budarin,Soyuz TM-20|Mir 19,1995-07-19,186.0,"Recover TREK.  Install Komplast.  Recover SKK-4, SKK-12, Platan, Stuk"
+Russia,Anatoly Solovyev | Nikola Budarin,Soyuz TM-20|Mir 19,1995-07-21,344.0,"Deploy Miras, shake Spektr solar array to attempt deploy of end panel.  Resecure amateur radio antenna.  Open Elektron O2 system valve"
+Russia,Sergei Avdeyev | Thomas Reiter,Soyuz TM-X|Mir 20,1995-10-20,316.0,Deploy ESEF materials experiment and replace Komza cassettes on Spektr
+Russia,Sergei Avdeyev | Yuri Gidzenko,Soyuz TM-X|Mir 20,1995-12-08,32.0,Move base block docking port as prep for Priroda docking
+Russia,Yuri Gidzenko | Thomas Reiter,Soyuz TM-X|Mir 20,1996-02-08,186.0,Retrieve ESEF sample cassettes from Spektr.   Relocate MMU to stow site on Kvant-2 exterior
+Russia,Yuri Onufrenko | Yuri Usachev,Soyuz TM-23|Mir 21,1996-03-15,351.0,Deploy second cargo crane.  Prepare solar array install site on Kvant-1
+Russia,Yuri Onufrenko | Yuri Usachev,Soyuz TM-23|Mir 21,1996-05-21,320.0,Relocate cooperative array from DM to Kvant-1.  Pepsi mockup photography
+Russia,Yuri Onufrenko | Yuri Usachev,Soyuz TM-23|Mir 21,1996-05-24,343.0,Install 1/2 of cooperative array cables on Kvant1
+Russia,Yuri Onufrenko | Yuri Usachev,Soyuz TM-23|Mir 21,1996-05-30,260.0,Deploy MOMS experiment on Priroda.  Open exp covers
+Russia,Yuri Onufrenko | Yuri Usachev,Soyuz TM-23|Mir 21,1996-06-06,214.0,Deploy U.S. PIE/MSRE experiments on Kvant-2.  Replace Komza cassettes.  Install SKK-11
+Russia,Yuri Onufrenko | Yuri Usachev,Soyuz TM-23|Mir 21,1996-06-13,342.0,Manually assist Priroda Travers antenna.  Tighten Sofora truss fasteners.  Retrieve samples and secure Rapana truss to Sofora
+Russia,Valery Korzun | Alexander Kaleri,Soyuz TM-24|Mir 22,1996-12-02,357.0,Install last 1/2 of cables for cooperative array on Kvant-1.  Connect solar array power cables on base block.  Relocate Rapana truss to Ferma-3 truss
+Russia,Valery Korzun | Alexander Kaleri,Soyuz TM-24|Mir 22,1996-12-09,396.0,Install Kurs antenna on docking module (including routing/mating cable to Kristall).  Tighten connector of amateur radio antenna on base block
+Russia,Valeri Tsibliev | Jerry Linenger,Soyuz TM-25|Mir 23,1997-04-29,297.0,Deploy OPM and TLD/Benton dosimeters.  Retrieve PIE and MSRE.  Use U.S. EVA tether and 35mm camera
+Russia,Anatoly Solovyev | Pavel Vinogradov,Soyuz TM-26|Mir 24,1997-08-21,330.0,Connect solar array power cables inside Spektr.  Inspect Spektr interior for leaks.  Retrieve science and personal hardware from Spektr.
+Russia,Anatoly Solovyev | Mike Foale,Soyuz TM-26|Mir 24,1997-09-06,360.0,Inspect Spektr exterior for leak sites (video under radiator and measure gap around solar array base).  Rotate 2 Spektr solar arrays.  Retrieve Benton dosimeter.
+Russia,Anatoly Solovyev | Pavel Vinogradov,Soyuz TM-26|Mir 24,1997-10-20,370.0,Connect 2 of 3 solar array orientation cables inside Spektr.  
+Russia,Anatoly Solovyev | Pavel Vinogradov,Soyuz TM-26|Mir 24,1997-11-03,365.0,Release Sputnik anniversary satellite.  Tiedown old solar array from Kvant-1 to base block.  Install Vozduk CO2 system external cap
+Russia,Anatoly Solovyev | Pavel Vinogradov,Soyuz TM-26|Mir 24,1997-11-06,379.0,Transfer new solar array from docking module to Kvant-1.  First handoff of stowed array from one crane to second.  Remove Vozduk external cap and install outlet diffuser
+Russia,Anatoly Solovyev | Pavel Vinogradov,Soyuz TM-26|Mir 24,1998-01-09,186.0,"Retrieve U.S. OPM experiment from docking module.  Kvant-2 hatch inspected, videotaped and bolted closed.  "
+Russia,Anatoly Solovyev | Dave Wolf,Soyuz TM-26|Mir 24,1998-01-14,232.0,Use SPSR experiment on Kvant-2 radiator.  Kvant-2 airlock hatch inspected and bolted closed
+Russia,Talgat Musabeyev | Nikola Budarin,Soyuz TM-27|Mir 25,1998-03-03,0.0,Manual wrenches inadequate to release hatch bolts.  Spektr solar array reinforcement deferred.
+Russia,Talgat Musabeyev | Nikola Budarin,Soyuz TM-27|Mir 25,1998-04-01,386.0,Install handrails and foot restraints on Spektr around damaged solar array.  
+Russia,Talgat Musabeyev | Nikola Budarin,Soyuz TM-27|Mir 25,1998-04-06,263.0,Reinforce Spektr solar array.  Retrieve Komza 
+Russia,Talgat Musabeyev | Nikola Budarin,Soyuz TM-27|Mir 25,1998-04-11,385.0,Jettison VDU roll thruster package from Sofora top
+Russia,Talgat Musabeyev | Nikola Budarin,Soyuz TM-27|Mir 25,1998-04-17,393.0,Prepare new VDU for Sofora mating.  Clear Ferma-3 & Rapana trusses.  Tighten Sofora bolts
+Russia,Talgat Musabeyev | Nikola Budarin,Soyuz TM-27|Mir 25,1998-04-22,381.0,Install new VDU on Sofora and erect to vertical pos.  Jettison of ???????
+Russia,G. Padelka | Sergei Avdeyev,Soyuz TM-28|Mir 26,1998-09-15,30.0,Internal EVA inside Spektr to connect solar array orientation cable in response to avionics failure.
+Russia,G. Padelka | Sergei Avdeyev,Soyuz TM-28|Mir 26,1998-11-10,350.0,Manual launch of Sputnik demo satellite.  Install Dvikon suit material exposure experiment on base block Igla antenna.  Retrieve bagged sample after thruster exhaust exposure
+Russia,Victor Afanasyev | Jean-Pierre Heignere,Soyuz TM-29|Mir 27,1999-04-16,379.0,Attempted demo of leak repair device failed due to valve failure.  Deployed organic material exposure experiment and retrieved French MMOD experiment.  Manual launch of Sputnik demo satellite
+Russia,Victor Afanasyev | Sergei Avdeyev,Soyuz TM-29|Mir 27,1999-07-23,367.0,Installed a new experimental 6-meter diameter antenna on Sofora truss but failed to deploy it fully.  Unsuccessfully sought source of small leak in Kvant-2 atmosphere.  Retrieved the Exobiology and Dvikon experiments
+Russia,Victor Afanasyev | Sergei Avdeyev,Soyuz TM-29|Mir 27,1999-07-28,322.0,"Finished full deploy of an experimental 6-meter antenna on Sofora truss.  At the end of the experiment the antenna was jettisoned.  Also installed experiments Indicator and Sprut-4, changed the cassettes of the Migmas ion spectrometer and retrieved Danko-M and Ekran-D experiments"
+Russia,Sergei Zaletin | Alexander Kaleri,Soyuz TM-30|Mir 28,2000-05-12,330.0,Inspected and photographed short circuit damaged solar array cable on Kvant-1.  Tested module leak repair sealant on sample panel.  Retrieved a solar array test sample from the docking module
+Russia,Yuri Usachev | Jim Voss,ISS Incr-2,2001-06-08,19.0,Relocated SM docking port as prep for DC1 docking.  Tested Orlan suits launched with SM.
+Russia,Vladimir Dezhurov | Mikhail Tyurin,ISS Incr-3,2001-10-08,298.0,"First EVA from DC-1.  Installed Tranzit-B cable for EVA radio communications between the SM and DC-1.  Installed 4 hatch handrails, egress/ingress ladder, MLI, video camera and Strela crane operator post/boom on DC-1"
+Russia,Vladimir Dezhurov | Mikhail Tyurin,ISS Incr-3,2001-10-15,352.0,Installed Kromka at SM port location.  Installed Japanese contracted MPAC-SEEDS materials experiments (3) on outside of SM.  Replaced Russian flag placard with Kodak sign (material durability tests)
+Russia,Vladimir Dezhurov | Frank Culbertson,ISS Incr-3,2001-11-12,304.0,DC1-SM hatch leaked during initial depress.  Wipe of seals and reclosure resolved leak (30 minute delay).  Connected Kurs cables (4 hi freq and 3 low freq) outside Pirs DC-1
+Russia,Vladimir Dezhurov | Mikhail Tyurin,ISS Incr-3,2001-12-03,166.0,Removed debris on SM aft port that prevented Progress vehicle #6 from completing hard dock.  Photoed and removed Progress #5 seal debris.
+Russia,Yri Onufrienko | Carl Walz,ISS Incr-4,2002-01-14,363.0,Relocated a cargo boom for the Russian Strela crane from PMA-1 to Pirs DC-1.  Installed amateur radio antenna WA3 and cables onto the aft of SM.  Jettisoned gloves and wiping towels?
+Russia,Yuri Onufrienko | Dan Bursch,ISS Incr-4,2002-01-25,359.0,Installed 6 thruster deflector shields on SM.  Installed an amateur radio antenna (WA4) and retrieved/ replaced Kromka device to measure thruster deposits.  Installed 1 Platan-M radiation experiment and 3 SKK materials experiments.
+Russia,Valery Korzun | Peggy Whitson,ISS Incr-5,2002-08-16,265.0,EVA delayed 1:43 due to missed opening of primary O2 bottles in both suits.  Removed 6 MMOD shield panels from PMA-1 and installed them on SM.  Deferred EVA tasks for swab of fuel/oxidizer residue and installation of Kromka experiment
+Russia,Valery Korzun | Sergei Treschev,ISS Incr-5,2002-08-26,321.0,Installed ORU attachment frame outside FGB to house components for EVA assembly tasks.  Retrieved and replaced panel #1 of Japan's MPAC/SEEDs materials experiments outside SM.  Installed 4 fairleads on FGB for future routing of tethers
+Russia,Alexander Kaleri | Mike Foale,ISS Incr-8,2004-02-26,235.0,Replaced an SKK removable materials sample cassette from DC-1. Retrieved Japanese MPAC/SEEDS panel #2 and relocated MPAC/SEEDS panel #3. Installed ESA Matryoshka experiment.  Removed two Velcro straps from the SMs WA2 ham radio antenna.  Replaced two SKK removable materials sample cassettes on SM
+Russia,Gennady Padalka | Mike Fincke,ISS Incr-9,2004-06-24,14.0,Fincke's Orlan O2 injector lever not in fully closed position.  EVA attempt terminated early.
+Russia,Gennady Padalka | Mike Fincke,ISS Incr-9,2004-06-30,339.0,"Replaced RPCM on SO truss for CMG #2 after extending and translating along Strela crane.  Completed getahead tasks on DC1 (contamination sensor, fabric handrails, 2 handrail end stops)"
+Russia,Gennady Padalka | Mike Fincke,ISS Incr-9,2004-08-03,270.0,Installed 2 ATV antennas.  Removed 6 ATV laser reflectors and installed 3 new reflectors.  Demated cable from failed ATV camera
+Russia,Gennady Padalka | Mike Fincke,ISS Incr-9,2004-09-03,321.0,Replaced FGB thermal system fluid control unit.  Installed 4 safety tether fairleads on FGB.  Stopped motion to aid test for phantom torque upon CMGs
+Russia,Leroy Chiao | Salizhan Sharipov,ISS Incr-10,2005-01-26,328.0,Installed science workstation and German Rokviss robotic experiment on SM.  Transfered MPAC/SEEDs experiment panel to new location on same stand.  Installed Rokviss antenna on MPAC/SEEDs mounting structure (cable reconnection due to initial mating error)
+Russia,Leroy Chiao | Salizhan Sharipov,ISS Incr-10,2005-03-28,270.0,Installed 3 ATV antennas on SM fwd end.  Jettisoned German Nanosputnik experiment.  Installed ATV GPS antenna on SM aft end
+Russia,Dmitry Kondratiev | Oleg Skripochka,ISS Incr-26,2011-02-16,291.0,Installed Photon-Gamma and Radiometria experiments on SM.  Jettisoned foot restraint.  Retrieved Komplast panels from FGB.
+Russia,Sergei Krikalev | John Phillips,ISS Incr-11,2005-08-18,298.0,Retrieve canister #1 of the Biorisk experiment can #1.  MPAC/SEEDS materials experiment panel #3 and Matryoshka radiation dosimetry experiment.  Install Automated Transfer Vehicle (ATV) backup docking camera
+Russia,Valeri Tokarev | Bill McArthur,ISS Incr-12,2006-02-03,344.0,"Jettisoned life expired Orlan suit with Ham radio inside (RadioSkaf or Suit Sat).  Relocated Strela adapter from FGB to PMA-3. Removed zenith TUS cable from IUA, secured to MT handrail because safing bolt would not engage adequately. Retrieved science experiment (Biorisk) and photographed exterior of Service Module."
+Russia,Pavel Vinogradov | Jeff Williams,ISS Incr-13,2006-06-01,391.0,"Installed new hydrogen vent for Elektron O2 generator.  Retrieved Kromka, BKHD and Biorisk experiments.  Relocated ATV WAL3 antenna cable to improve system performance"
+Russia,Mikhail Tyurin | Michael Lopez-Alegria,ISS Incr-14,2006-11-22,338.0,Performed golf demo (one ball jettisoned).  Inspected but unable to stow Progress antenna.  Relocated ATV antenna impairing SM reboost engine
+Russia,Mikhail Tyurin | Michael Lopez-Alegria,ISS Incr-14,2007-02-22,378.0,Cut/cleared Progress antenna interfering with undocking. Adjusted ATV antenna interfaces. Replaced a materials experiment. Installed data cable of radiation experiment. Photographed ATV reflectors and numerous experiments. Installed 2 foot restraints outside airlock. Inspected safety of cargo crane mechanisms.  Successfully used new LED helmet lights.  EV1's sublimator breakthru caused helmet fogging before reset correction.
+Russia,Fyodor Yurchikhin | Oleg Kotov,ISS Incr-15,2007-05-30,325.0,Start delayed 45 minutes due to comm misconfig.  Transferred MMOD panels from PMA3 to SM and installed 5 of 17 panels.  Installed ATV GPS antenna cable
+Russia,Fyodor Yurchikhin | Oleg Kotov,ISS Incr-15,2007-06-06,337.0,Installed SM-FGB cable for local area network (LAN) and Biorisk science experiment.  Installed last 12 MMOD shields on SM.  
+Russia,Sergei Volkov | Oleg Kononenko,ISS Incr-17,2008-07-10,379.0,Removed a pyrobolt from 1 of 5 Soyuz capsule restraints.  First use of US helmet TV on Orlan.  Lost tool and insulation fragments overboard
+Russia,Sergei Volkov | Oleg Kononenko,ISS Incr-17,2008-07-15,354.0,Prepped for new module (MRM2) installation by installing a SM docking target and inspecting antenna attach points.  Installed Vsplesk cosmic radiation experiment and retrieved Biorisk experiment.  Unbent a ham radio antenna.
+Russia,Yuri Lonchakov | Mike Fincke,ISS Incr-18,2008-12-22,339.0,Installed Langmuir probe to aid Soyuz reentry sep analysis.  Retrieved a BIORISK can.  Installed EXPOSE R and Impulse experiments
+Russia,Yuri Lonchakov | Mike Fincke,ISS Incr-18,2009-03-10,288.0,Cut off excess length of fabric straps near DC1 antennas and docking target.  Reinstalled EXPOSE-R experiment and adjusted orientation of SKK experiment panel.  Closed thermal insulation flap over electrical connector panel
+Russia,Gennady Padalka | Mike Barratt,ISS Incr-19,2009-06-05,294.0,First use of new Orlan MK suits with digital caution/warning electronics.  Started 1 hour late due to faulty CO2 readings.  Installed two docking navigation antennas on zenith port of service module as prep for MRM2 arrival
+Russia,Gennady Padalka | Mike Barratt,ISS Incr-19,2009-06-10,12.0,Relocated docking cone to zenith port of Service Module as prep for MRM2 arrival
+Russia,Oleg Kotov | Maxim Suraev,ISS Incr-22,2010-01-14,344.0,"Prepped new module (MRM2) for Soyuz/Progress usage by installing Kurs navigation antennas/cables and docking targets.  Installed 2 hatch handrails, jettisoned excess thermal blankets and retrieved can of Biorisk experiment"
+Russia,Fyodor Yurchikin | Mikhail Kornienko,ISS Incr-24,2010-07-27,402.0,Replaced degraded ATV docking camera and jettisoned old unit.  Removed launch restraints from MRM1 camera.  Installed cables to enable dockings to MRM1
+Russia,Fyodor Yurchikin | Oleg Skripochka,ISS Incr-25,2010-10-15,387.0,"Installed experiment platform on SM large diameter, CKK materials experiment on MRM2 and two handrail gap spanners.  Collected sample wipes of prop byproducts and microbes from thermal blankets.  Retrieved ROKVISS robot experiment and jettisoned wipedown towels"
+Russia,Dmitry Kondratiev | Oleg Skripochka,ISS Incr-26,2011-01-21,323.0,Installed 100Mb/sec data downlink antenna and its cables.  Retrieved plasma and ExposeR materials exposure experiments.  Finished installation of MRM1 docking TV camera by cutting into impeding thermal blanket
+Russia,Sergei Volkov | Alexander Samokutyaev,ISS Incr-28,2011-08-03,383.0,"Installed laser comm and Biorisk experiments.  Jettisoned covers of laser experiment. After delay due to broken rcvr antenna, deployed ham radio satellite Radioskaf-V/Arissat-1.  Removed SM-MRM1 Kurs antenna from SM"
+Russia,Oleg Kononenko | Anton Shkaplerov,ISS Incr-30,2012-02-16,375.0,"Relocated 1st strela crane from DC1 to MRM1 and jettisoned base thermal cover.  Installed materials exposure experiment and took 1 of 2 swab samples of contamination under thermal blanket.  Due to time, did not install SM MMOD shields"
+Russia,Gennady Padalka | Yuri Malenchenko,ISS Incr-32,2012-08-20,351.0,1 hr late start due to airlock valve.  Relocated cargo crane from DC1 to FGB as prep for MLM.  Installed MMOD shields on Service Module and support struts for airlock exit ladder
+Russia,Pavel Vinogradov | Roman Romanenko,ISS Incr-35,2013-04-19,398.0,"Installed plasma experiment/cables/probes, replaced degraded ATV navigation reflector, jettisoned cable reel, towels and probe boxes, retrieved biorisk canister. Lost materials exposure experiment overboard"
+Russia,Fyodor Yurchikhin | Alexander Misurkin,ISS Incr-36,2013-06-24,394.0,Power cable clamps installed and Kurs tested in prep for MLM. Replaced FGB flow control valve. Installed INDICATOR of CONTROL space experiment on MRM2.  Removed VINOSLIVOS.  experiment from MRM-2 and PHOTON-GAMMA from SM
+Russia,Fyodor Yurchikhin | Alexander Misurkin,ISS Incr-36,2013-08-16,449.0,"Â Installed VINOSLIVOST experiment on MRM2, 2 MLMÂUSOS power cables, FGB Â MRM2 gap spanners, MLM-USOS ETHERNET cableÂ Installation of gap spanners SM Â MRM2 (if time allows)Â Retracted & stowed Strela-1 on DC1"
