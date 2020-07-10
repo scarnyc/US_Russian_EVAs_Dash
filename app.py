@@ -44,7 +44,9 @@ fig.update_layout(
         type="date"
     ),
     paper_bgcolor='#222222',  # background color to match Darkly theme
-    plot_bgcolor='#222222'    # plot color to match Darkly theme
+    plot_bgcolor='#222222',   # plot color to match Darkly theme
+    height=600,
+    font=dict(size=15)
 )
 
 # instantiate Dash app with Darkly theme: app
