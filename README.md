@@ -1,5 +1,5 @@
 # U.S. & Russian Spacewalks Dash App
-This is a dashboard that shows spacewalks conducted by U.S. & Russian astronauts by duration over time via Plotly's Dash, using the NASA spacewalking dataset.  
+A Dash App that shows spacewalks conducted by U.S. & Russian astronauts by duration over time, using the NASA spacewalking dataset.  
 
 Check out the official blog on Medium:
 https://medium.com/@billyscardino/nasa-spacewalks-with-plotly-dash-heroku-397d87dd2611
