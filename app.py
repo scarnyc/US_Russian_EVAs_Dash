@@ -37,11 +37,11 @@ subtitle_annotation = {
     'showarrow': False,
     'align': 'center',
     'font': {'color': 'white', 'size': 15},
-    'text': "Extravehicular activity (EVA) related to space flight.<br>"
-            "Hover over the data points to learn more about the "
-            "crews and spaceshuttles for each EVA.<br>Use the slider "
+    'text': "Extravehicular activity (EVA) refers to a spacewalk that is made outside a "
+            "craft beyond Earth's appreciable atmosphere. <br>Hover over the data points to learn more "
+            "about the crews and spacecraft for each EVA.<br>Use the slider "
             "below the x-axis to select custom date ranges. <br>Double-click on "
-            "one of the colors on the legend to isolate a country on the plot.<br>"
+            "the colors on the legend to isolate a country on the plot.<br>"
 }
 
 # create the annotation for the world's first EVA: first_annotation
@@ -99,8 +99,8 @@ server = app.server
 app.layout = html.Div(children=[
     dcc.Graph(figure=fig),
     html.A(
-        "Git Repo",
-        href='https://github.com/scarnyc/space-walking-russian-and-us-evas',
+        "Click Here for Git Repo",
+        href='https://github.com/scarnyc/NASA_Spacewalks_Dash',
         target="_blank",
         style={
             'font-family': 'sans-serif',
