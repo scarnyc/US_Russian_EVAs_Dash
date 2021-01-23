@@ -25,9 +25,9 @@ fig = px.scatter(
     opacity=.9,
     render_mode='svg',
     marginal_y='histogram',
-    title="Hover over the points for more info about each Spacewalk. "
-          "Use the slider to select custom date ranges. <br>"
-          "Double-click the colors on the legend to isolate points for a country on the plot.<br>",
+    title="Extravehicular Activity (EVA) refers a spacewalk done outside a spacecraft beyond Earth's appreciable " 
+          "atmosphere.<br>Hover over the points for more info about each EVA. Use the slider to select custom date "
+          "ranges. <br>Double-click the colors on the legend to isolate points for a country on the plot.<br><br>",
     color_discrete_map={"Russia": "red", "USA": "blue"}
 )
 
@@ -48,33 +48,27 @@ long_annotation = {'x': '2001-03-15', 'y': 560, 'showarrow': True,
 
 # customize layout
 fig.update_layout(
-    title=dict(
-        font=dict(size=18)
-    ),
-    yaxis=dict(
-        zeroline=False,
-        showgrid=False
-    ),
-    xaxis=dict(
-        title='Date',
-        zeroline=False,
-        showgrid=False,
-        autorange=True,
-        range=[spacewalksDF['Date'].min(), spacewalksDF['Date'].max()],
-        rangeslider=dict(
-            autorange=True,
-            range=[spacewalksDF['Date'].min(), spacewalksDF['Date'].max()]
-        ),
-        type="date"
-    ),
+    title={'font': {'size': 18}},
+    yaxis={'zeroline': False, 'showgrid': False},
+    xaxis={
+        'title': 'Date',
+        'zeroline': False,
+        'showgrid': False,
+        'autorange': True,
+        'range': [spacewalksDF['Date'].min(), spacewalksDF['Date'].max()],
+        'rangeslider': {
+            'autorange': True,
+            'range': [spacewalksDF['Date'].min(), spacewalksDF['Date'].max()]},
+        'type': "date"
+    },
     paper_bgcolor='#222222',  # background color to match Darkly theme
     plot_bgcolor='#222222',  # plot color to match Darkly theme
     height=600,
-    font=dict(size=20),
+    font={'size': 20},
     annotations=[
         first_annotation,
         moon_annotation,
-        long_annotation]# add annotations to the figure
+        long_annotation]  # add annotations to the figure
 )
 
 # instantiate Dash app with Darkly theme: app
@@ -85,7 +79,12 @@ server = app.server
 
 # create app layout with plotly express scatter plot
 app.layout = html.Div(children=[
-    html.H1('U.S. & Russian Spacewalks (1965-2013)'),
+    html.H1('<br>',
+            style={'color': '#222222'}),
+    html.Center(children=[
+        html.H2('U.S. & Russian EVAs (1965-2013)',
+                style={'font-size': '50px'})
+    ]),
     dcc.Graph(figure=fig),
     dbc.Button(
         "Git Repo",
