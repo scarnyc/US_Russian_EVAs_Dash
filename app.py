@@ -1,4 +1,4 @@
-# app.py -> for NASA Spacewalks Dash App deployed to <https://spacewalksrussiausevasdash.herokuapp.com/>
+# app.py -> for NASA Spacewalks Dash App deployed to <https://us-russian-evas-dash.herokuapp.com/>
 import pandas as pd
 import plotly.express as px
 import dash
@@ -63,7 +63,7 @@ fig.update_layout(
     },
     paper_bgcolor='#222222',  # background color to match Darkly theme
     plot_bgcolor='#222222',  # plot color to match Darkly theme
-    height=600,
+    height=550,
     font={'size': 20},
     annotations=[
         first_annotation,
