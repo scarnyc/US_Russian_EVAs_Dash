@@ -6,7 +6,6 @@ import dash_core_components as dcc
 import dash_bootstrap_components as dbc
 import dash_html_components as html
 
-
 # import NASA spacewalks .csv: spacewalks_df
 spacewalksDF = pd.read_csv(
     'https://gist.githubusercontent.com/scarnyc/5751e46d68a3dcecbe3469982a508763/raw'
@@ -25,24 +24,12 @@ fig = px.scatter(
     template='plotly_dark',
     opacity=.9,
     render_mode='svg',
-    # marginal_y='histogram',
-    title='U.S. & Russian EVAs, according to NASA (1965-2013)',
+    marginal_y='histogram',
+    title="Hover over the points for more info about each Spacewalk. "
+          "Use the slider to select custom date ranges. <br>"
+          "Double-click the colors on the legend to isolate points for a country on the plot.<br>",
     color_discrete_map={"Russia": "red", "USA": "blue"}
 )
-
-# create the annotation for the subtitle: subtitle_annotation
-subtitle_annotation = {
-    'x': '1970-01-01',
-    'y': 560,
-    'showarrow': False,
-    'align': 'center',
-    'font': {'color': 'white', 'size': 15},
-    'text': "Extravehicular activity (EVA) refers to a spacewalk that is made outside a "
-            "craft beyond Earth's appreciable atmosphere. <br>Hover over the data points to learn more "
-            "about the crews and spacecraft for each EVA.<br>Use the slider "
-            "below the x-axis to select custom date ranges. <br>Double-click on "
-            "the colors on the legend to isolate a country on the plot.<br>"
-}
 
 # create the annotation for the world's first EVA: first_annotation
 first_annotation = {'x': '1965-03-15', 'y': 20, 'showarrow': True,
@@ -61,6 +48,9 @@ long_annotation = {'x': '2001-03-15', 'y': 560, 'showarrow': True,
 
 # customize layout
 fig.update_layout(
+    title=dict(
+        font=dict(size=18)
+    ),
     yaxis=dict(
         zeroline=False,
         showgrid=False
@@ -79,14 +69,12 @@ fig.update_layout(
     ),
     paper_bgcolor='#222222',  # background color to match Darkly theme
     plot_bgcolor='#222222',  # plot color to match Darkly theme
-    height=700,
+    height=600,
     font=dict(size=20),
     annotations=[
-        subtitle_annotation,
         first_annotation,
         moon_annotation,
-        long_annotation],  # add annotations to the figure
-    template='plotly_dark'
+        long_annotation]# add annotations to the figure
 )
 
 # instantiate Dash app with Darkly theme: app
@@ -97,22 +85,13 @@ server = app.server
 
 # create app layout with plotly express scatter plot
 app.layout = html.Div(children=[
+    html.H1('U.S. & Russian Spacewalks (1965-2013)'),
     dcc.Graph(figure=fig),
-    html.A(
-        "Click Here for Git Repo",
-        href='https://github.com/scarnyc/NASA_Spacewalks_Dash',
-        target="_blank",
-        style={
-            'font-family': 'sans-serif',
-            'font-size': '24px',
-            'color': '#2c70e6',
-            'x': '688.5',
-            'y': '666',
-            'text-anchor': 'middle',
-            'opacity': '1',
-            'font-weight': 'normal',
-            'white-space': 'pre',
-            'pointer-events': 'all'}
+    dbc.Button(
+        "Git Repo",
+        id="link-centered",
+        className="ml-auto",
+        href='https://github.com/scarnyc/NASA_Spacewalks_Dash'
     )
 ])
 
