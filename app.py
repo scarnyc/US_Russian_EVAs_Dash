@@ -1,4 +1,4 @@
-# app.py -> for NASA Spacewalks Dash App deployed to <https://us-russian-evas-dash.herokuapp.com/>
+# app.py -> NASA Spacewalks Dash App deployed to <https://us-russian-evas-dash.herokuapp.com/>
 import pandas as pd
 import plotly.express as px
 import dash
@@ -24,10 +24,10 @@ fig = px.scatter(
     template='plotly_dark',
     opacity=.9,
     render_mode='svg',
-    marginal_y='histogram',
-    title="Extravehicular Activity (EVA) refers a spacewalk done outside a spacecraft beyond Earth's appreciable " 
+    # marginal_y='histogram',
+    title="Extravehicular Activity (EVA) refers to a spacewalk done outside a spacecraft beyond Earth's appreciable " 
           "atmosphere.<br>Hover over the points for more info about each EVA. Use the slider to select custom date "
-          "ranges. <br>Double-click the colors on the legend to isolate points for a country on the plot.<br><br>",
+          "ranges. <br>Double-click the colors on the legend to isolate points for a country on the plot.<br>",
     color_discrete_map={"Russia": "red", "USA": "blue"}
 )
 
