@@ -26,8 +26,8 @@ fig = px.scatter(
     render_mode='svg',
     # marginal_y='histogram',
     title="Extravehicular Activity (EVA) refers to a spacewalk done outside a spacecraft beyond Earth's appreciable " 
-          "atmosphere.<br>Hover over the points for more info about each EVA. Use the slider to select custom date "
-          "ranges. <br>Double-click the colors on the legend to isolate points for a country on the plot.<br>",
+          "atmosphere.<br>Hover over the data points for more info about each EVA. Use the slider to select custom "
+          "date ranges. <br>Double-click the colors on the legend to isolate EVAs for a country on the plot.<br>",
     color_discrete_map={"Russia": "red", "USA": "blue"}
 )
 
